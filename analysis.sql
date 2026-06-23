@@ -1,21 +1,4 @@
-/*----
-Retail Sales Analysis Using PostgreSQL
-
-Objective:
-Analyze retail sales data to uncover sales trends,
-customer behavior, category performance and
-revenue driving insights.
-
-Skills Demonstrated:
-   - Data Cleaning
-   - Data Exploration
-   - Aggregations
-   - Grouping & Sorting
-   - Date & Time Analysis
-   - Customer Analytics
-   - Business Intelligence
-   
-----*/
+-- Retail Sales Analysis Using PostgreSQL
 
 -- Create Database
 CREATE DATABASE RETAIL_SALES_ANALYSIS;
@@ -240,3 +223,4 @@ SELECT
 FROM RETAIL_SALES
 GROUP BY gender, category
 ORDER BY gender, revenue DESC;
+
