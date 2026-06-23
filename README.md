@@ -1,11 +1,10 @@
-# Retail Sales Analysis Using PostgreSQL
+# Retail Sales Data Analysis Using PostgreSQL
 
 # 🔗Project Overview
 
 This project presents a comprehensive retail sales analysis using PostgreSQL, aimed at extracting meaningful business insights from transactional data. The analysis explores revenue drivers, customer behavior, product performance and temporal sales patterns to support strategic decision making and identify opportunities for business optimization.
 
 # 🔗Objectives
-
 - Measure overall sales performance and revenue trends.
 - Identify high performing product categories and key revenue contributors.
 - Analyze customer purchasing behavior across demographic segments.
