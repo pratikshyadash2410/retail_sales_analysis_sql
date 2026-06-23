@@ -32,6 +32,7 @@ This project analyzed retail sales data using PostgreSQL to uncover sales trends
 
 # 📂Project Files
 • analysis.sql — SQL queries
+
 • retail_store_sales.CSV — Dataset
 
 # Author
