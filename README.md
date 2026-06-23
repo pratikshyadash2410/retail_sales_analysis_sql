@@ -4,7 +4,7 @@
 
 This project presents a comprehensive retail sales analysis using PostgreSQL, aimed at extracting meaningful business insights from transactional data. The analysis explores revenue drivers, customer behavior, product performance and temporal sales patterns to support strategic decision making and identify opportunities for business optimization.
 
-# Objectives
+# 🎯Objectives
 
 - Measure overall sales performance and revenue trends.
 - Identify high performing product categories and key revenue contributors.
@@ -22,7 +22,7 @@ This project presents a comprehensive retail sales analysis using PostgreSQL, ai
 - Date and Time Based Analysis
 - Customer and Revenue Analytics
 
-# Key Findings
+# 📈Key Findings
 
 - December was the highest revenue generating month in both 2022 and 2023, indicating a consistent year end sales peak.
 - Product category performance varied significantly, with certain categories contributing a larger share of total revenue.
@@ -35,11 +35,11 @@ This project presents a comprehensive retail sales analysis using PostgreSQL, ai
 
 This project analyzed retail sales data using PostgreSQL to uncover sales trends, customer behavior and revenue patterns, demonstrating the practical application of SQL in data driven decision making.
 
-# Project Files
+# 📂Project Files
 • analysis.sql — SQL queries 
-• 
+• retail_store_sales.CSV — Dataset
 
-# Author
+# 👤Author
 
 Pratikshya Dash
 
