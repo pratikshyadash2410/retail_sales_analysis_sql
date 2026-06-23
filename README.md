@@ -36,7 +36,8 @@ This project presents a comprehensive retail sales analysis using PostgreSQL, ai
 This project analyzed retail sales data using PostgreSQL to uncover sales trends, customer behavior and revenue patterns, demonstrating the practical application of SQL in data driven decision making.
 
 # 📂Project Files
-• analysis.sql — SQL queries 
+• analysis.sql — SQL queries
+
 • retail_store_sales.CSV — Dataset
 
 # Author
